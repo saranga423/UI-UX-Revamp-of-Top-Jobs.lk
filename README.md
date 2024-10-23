@@ -1,2 +1,2 @@
 # UI-UX-Revamp-of-Top-Jobs.lk
- Improving the user interface and user experience (UI/UX) of Top Jobs.lk
+ Improving the user interface and user experience (UI/UX) of Top Jobs.lk .  Our group project focused on redesigning and improving the user interface and user experience (UI/UX) of Top Jobs.lk, a prominent job portal in Sri Lanka. The main objective was to make the platform more user-friendly, ensuring a smooth and intuitive experience for both job seekers and employers. We emphasized simplifying the navigation, enhancing mobile responsiveness, and introducing modern visual design elements to create a more accessible and enjoyable interface.
